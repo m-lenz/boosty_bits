@@ -6,6 +6,11 @@ Basic setup for BOOST/C++ tests.
  * suits
  * fixtures 
  * assertions
+ 
+ ## supported operations are
+ 1. make       (build files)
+ 2. make test  (run test and generate XML)
+ 3. make clean (remove built files)
 
 ## needed dependencies are:
 * boost-lib
