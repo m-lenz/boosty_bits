@@ -1,4 +1,4 @@
-# boosty_bits
+# Boosty Bits
 
 Basic setup for BOOST/C++ tests. 
  example for:
