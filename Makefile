@@ -11,4 +11,5 @@ run-%: %
 	-./$^ --output_format=XML --log_level=test_suite > reports/$(^)-report-`date +%Y.%m.%d`.xml
 
 clean:
-	rm $(TARGETS) *-report.xml
+	rm $(TARGETS) reports/*.xml
+ 
