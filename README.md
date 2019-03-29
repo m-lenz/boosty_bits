@@ -1,6 +1,10 @@
 # Boosty Bits
 
 Basic setup for BOOST/C++ tests. 
+
+[image]: https://matlab1.com/wp-content/uploads/2017/10/boost.png "boost-banner"
+![alt text][image]
+
  example for:
  * functions
  * suits
