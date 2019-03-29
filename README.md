@@ -1,6 +1,13 @@
 # boosty_bits
 
 Basic setup for BOOST/C++ tests. 
-provides example for functions, fixtures and other test-cases
+ example for:
+ * functions
+ * suits
+ * fixtures 
+ * assertions
 
-optimized for jenkins-usage
+## needed dependencies are:
+* boost-lib
+* make / cmake
+* jenkins (target-plattform for test)
