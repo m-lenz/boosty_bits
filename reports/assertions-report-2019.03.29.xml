@@ -1,0 +1,1 @@
+<TestLog><TestSuite name="Hello"><TestCase name="universeInOrder"><Error file="assertions.cpp" line="12"><![CDATA[The universe is *not* in order.]]></Error><TestingTime>105</TestingTime></TestCase></TestSuite></TestLog>

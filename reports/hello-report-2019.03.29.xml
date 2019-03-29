@@ -1,0 +1,1 @@
+<TestLog><TestSuite name="Hello"><TestCase name="universeInOrder"><Error file="hello.cpp" line="12"><![CDATA[check add(2, 2) == 5 failed]]></Error><TestingTime>267</TestingTime></TestCase></TestSuite></TestLog>
